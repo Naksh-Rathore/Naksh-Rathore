@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, Python, and math.
 - 🌱 I’m currently learning JavaScript, HTML, and CSS
 - 💞️ I’m looking to collaborate on any project you might want
-- 📫 How to reach me: by using GitHub
+- 📫 How to reach me: naksh.rathore786@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer
 
