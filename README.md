@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naksh-Rathore
 - 👀 I’m interested in JavaScript, Python, and math.
 - 🌱 I’m currently learning JavaScript, HTML, and CSS
-- 💞️ I’m looking to collaborate on any project that would help my skills
+- 💞️ I’m looking to collaborate on any project that would improve
 - 📫 How to reach me: naksh.rathore786@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer
