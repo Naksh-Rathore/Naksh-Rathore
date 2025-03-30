@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naksh-Rathore
 - 👀 I’m interested in JavaScript, Python, Java, and math.
-- 🌱 I’m currently learning Java for business applications
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: naksh.rathore786@gmail.com
 - 😄 Pronouns: He/Him
