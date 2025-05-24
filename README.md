@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: naksh.rathore786@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love soccer
+- ⚡ Fun fact: I love skateboarding and gaming
 
 <!---
 Naksh-Rathore/Naksh-Rathore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
