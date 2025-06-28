@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, and **cybersecurity**. I enjoy exploring systems at both *high and low levels* — from developing tools in **C** to writing scripts in **Python** and building web interfaces with **JavaScript**. I also have a strong interest in *ethical hacking* and *digital security*.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, and **backend web development** and **cybersecurity**. I enjoy exploring systems writing scripts in **Python** and building web interfaces with **JavaScript**. I also have a strong interest in *ethical hacking* and *backend web development*.
 
 Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
 
@@ -21,8 +21,7 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
 
 ---
@@ -30,8 +29,6 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 ### 🔐 <strong>Cybersecurity Interests</strong>
 
 - *Ethical Hacking* & **Red Teaming**
-- **Network Security** & *Packet Analysis*
-- **Exploit Development** & *Buffer Overflows*
 - *Capture The Flag (CTF)* Challenges
 - **Linux-based Security Environments** (*Kali*, *WSL2*)
 
