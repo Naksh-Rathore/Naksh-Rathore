@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, and **backend web development** and **cybersecurity**. I enjoy exploring systems writing scripts in **Python** and building web interfaces with **JavaScript**. I also have a strong interest in *ethical hacking* and *backend web development*.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **embedded systems**, and **light ethical hacking**. I enjoy exploring systems by writing scripts in **Python** and working close to hardware with embedded projects.
 
 Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
 
@@ -17,10 +17,11 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 ### 🛠️ <strong>Languages & Tools</strong>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
 
@@ -28,13 +29,20 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 
 ### 🔐 <strong>Cybersecurity Interests</strong>
 
-- *Ethical Hacking* & **Red Teaming**
+- *Light Ethical Hacking* & **Basic Red Teaming**
 - *Capture The Flag (CTF)* Challenges
 - **Linux-based Security Environments** (*Kali*, *WSL2*)
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*zGZSsGmCMrAF3PEkrvUgKg.gif" width="500" alt="Hacking GIF"/>
 </p>
+
+---
+
+### 💻 <strong>Embedded & Scripting Interests</strong>
+
+I enjoy working with **embedded systems** like Arduino and microcontrollers, blending hardware with software to build real-world projects.  
+Alongside, I love writing **Python scripts** to automate tasks, analyze data, and extend system capabilities.
 
 ---
 
@@ -70,7 +78,7 @@ It challenges me to think *critically*, *strategically*, and *creatively*.
 
 ### 📫 <strong>Contact Me</strong>
 
-- 📧 **Gmail**: <naksh.rathore786@gmail.com>
+- 📧 **Gmail**: <naksh.rathore786@gmail.com>  
 - 🧠 *Always learning* | 💻 *Always building* | ⚔️ *Always challenging*
 
 > *"Train hard, code harder."* — **Naksh Rathore**
