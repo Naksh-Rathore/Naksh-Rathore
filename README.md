@@ -29,7 +29,7 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 
 ### 🔐 <strong>Cybersecurity Interests</strong>
 
-- *Light Ethical Hacking* & **Basic Red Teaming**
+- *Ethical Hacking* & **Basic Red Teaming**
 - *Capture The Flag (CTF)* Challenges
 - **Linux-based Security Environments** (*Kali*, *WSL2*)
 
