@@ -71,7 +71,11 @@ It challenges me to think *critically*, *strategically*, and *creatively*.
 ### 📊 <strong>GitHub Stats</strong>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naksh-Rathore&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naksh-Rathore&show_icons=true&theme=tokyonight" alt="Contribution stats"/>
+</p><br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naksh-Rathore&layout=compact" alt="Most used languages"/>
 </p>
 
 ---
