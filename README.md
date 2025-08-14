@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **embedded systems**, and **ethical hacking**. I enjoy exploring systems by writing scripts in **Python** and working close to hardware with embedded projects.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **embedded systems**, and **ethical hacking**. I enjoy exploring systems by writing scripts in **Python** and working close to raw memory with system projects.
 
 Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
 
