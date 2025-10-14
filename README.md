@@ -41,7 +41,7 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 
 ### 💻 <strong>Systems Programming & Scripting Interests</strong>
 
-I enjoy working with **low-level systems** like Linux and compilers, blending C with knowledge to build real-world projects.  
+I enjoy working with **low-level systems** like Linux and compilers, blending C/C++ with knowledge to build real-world projects.  
 Alongside, I love writing **Python scripts** to automate tasks, analyze data, and extend system capabilities.
 
 ---
