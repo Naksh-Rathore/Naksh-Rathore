@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **systems programming**, and **ethical hacking**. I enjoy exploring systems by writing scripts in **Python** and working close to raw memory with system projects.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **systems programming**, and **embedded systems**. I enjoy exploring how hardware and software interact—whether I'm writing C for microcontrollers or building Python tools to automate and extend system behavior.
 
 Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
 
@@ -18,7 +18,7 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
@@ -27,22 +27,38 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 
 ---
 
-### 🔐 <strong>Cybersecurity Interests</strong>
+### 🔧 <strong>Embedded Systems Interests</strong>
 
-- *Ethical Hacking* & **Basic Red Teaming**
-- *Capture The Flag (CTF)* Challenges
-- **Linux-based Security Environments** (*Kali*, *WSL2*)
+- **Arduino & Microcontrollers**
+- **Sensors, actuators, and real-world hardware interfaces**
+- **Low-level C programming**
+- Working with **registers, memory, timers, and interrupts**
+- Basic **electronics**, debugging, and hardware testing
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*zGZSsGmCMrAF3PEkrvUgKg.gif" width="500" alt="Hacking GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQyNDRndmgyMDJtZzlkM2dtMm10Z3psOTd0OWV5cXdma2Mza2J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif" width="500" alt="Electronics / STEM GIF"/>
 </p>
+
+---
+
+### 🔐 <strong>My Passion for Writing Secure Code</strong>
+
+I believe that **secure code is good code** — whether it runs on Linux or a microcontroller. My focus includes:
+
+- Avoiding **unsafe memory practices**
+- Preventing **undefined behavior** and data races
+- Writing **defensive, predictable code**
+- Being mindful with **pointers, buffers, and arrays**
+- Ensuring software is **stable, robust, and reliable**
+
+Security isn’t a feature — it’s a mindset.
 
 ---
 
 ### 💻 <strong>Systems Programming & Scripting Interests</strong>
 
-I enjoy working with **low-level systems** like Linux and compilers, blending C/C++ with knowledge to build real-world projects.  
-Alongside, I love writing **Python scripts** to automate tasks, analyze data, and extend system capabilities.
+I enjoy working with **low-level systems** like Linux, compilers, and memory models.  
+I also love using **Python** to automate tasks, extend systems, and build tools that complement my low-level work.
 
 ---
 
@@ -52,7 +68,7 @@ I bring the same **discipline**, **strategy**, and **teamwork** from the pitch t
 I love *creative play* and adapting quickly—on the field and in code.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" alt="Soccer GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUwa2w1ZmJ0cXBteHV5ZXhwbzJ4c3VkYmZtNmdyYnU0OXYwcHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKAQ4kWov6tdC/giphy.gif" width="300" alt="Soccer GIF"/>
 </p>
 
 ---
@@ -63,7 +79,7 @@ Gaming keeps me sharp and inspires me to build *better*, *more interactive syste
 It challenges me to think *critically*, *strategically*, and *creatively*.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Gaming GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRjZzJoMXk2YXZlemN3c3BpNjlqNmZpcjN6czVzMzQ2a284dDY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" width="300" alt="Gaming GIF"/>
 </p>
 
 ---
@@ -82,10 +98,10 @@ It challenges me to think *critically*, *strategically*, and *creatively*.
 
 ### 📫 <strong>Contact Me</strong>
 
-- 📧 **Gmail**: <naksh.rathore786@gmail.com>
-- 💬 **Discord**: <https://discord.com/channels/nakshr_98839>
-- 🧑‍💻 **Stack Overflow**: <https://stackoverflow.com/users/30107029/naksh-rathore>
-- 
-🧠 *Always learning* | 💻 *Always building* | ⚔️ *Always challenging*
+- 📧 **Gmail**: <naksh.rathore786@gmail.com>  
+- 💬 **Discord**: <https://discord.com/channels/nakshr_98839>  
+- 🧑‍💻 **Stack Overflow**: <https://stackoverflow.com/users/30107029/naksh-rathore>  
+
+🧠 *Always learning* | 💻 *Always building* | 🔐 *Always coding securely*
 
 > *"Train hard, code harder."* — **Naksh Rathore**
