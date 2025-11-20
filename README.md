@@ -36,7 +36,7 @@ Outside of tech, I enjoy playing **soccer** and exploring new **games** in my fr
 - Basic **electronics**, debugging, and hardware testing
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQyNDRndmgyMDJtZzlkM2dtMm10Z3psOTd0OWV5cXdma2Mza2J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif" width="500" alt="Electronics / STEM GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQyNDRndmgyMDJtZzlkM2dtMm10Z3psOTd0OWV5cXdma2Mza2J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif" width="300" alt="Electronics / STEM GIF"/>
 </p>
 
 ---
