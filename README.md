@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **systems programming**, and **embedded systems**. I enjoy exploring how hardware and software interact—whether I'm writing C for microcontrollers or building Python tools to automate and extend system behavior.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **graphics programming**, and **embedded systems**. I enjoy exploring how hardware and software interact—whether I'm writing C for microcontrollers or building Python tools to automate and extend system behavior.
 
 Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
 
@@ -55,10 +55,14 @@ Security isn’t a feature — it’s a mindset.
 
 ---
 
-### 💻 <strong>Systems Programming & Scripting Interests</strong>
+### 🎨 <strong>Graphics Programming & Scripting Interests</strong>
 
-I enjoy working with **low-level systems** like Linux, compilers, and memory models.  
-I also love using **Python** to automate tasks, extend systems, and build tools that complement my low-level work.
+I love working with **low-level and real-time rendering**, shaders, and interactive visuals.  
+My main tool is often OpenGL, writing shaders, doing math, and much more!
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlucmF2ZmI2YzF3MXF5ZnpiemR5YnN1NnNhd2hhZGZqcHNhMnpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYcfd0CzzIVQJYk/giphy.gif" width="300" alt="Soccer GIF"/>
+</p>
 
 ---
 
