@@ -55,10 +55,10 @@ Security isn’t a feature — it’s a mindset.
 
 ---
 
-### 🎨 <strong>Graphics Programming & Scripting Interests</strong>
+### 🎨 <strong>Graphics Programming</strong>
 
 I love working with **low-level and real-time rendering**, shaders, and interactive visuals.  
-My main tools are often OpenGL and Vulkan, used when writing shaders, doing math, and much more!
+My main tools are often OpenGL and Vulkan, used when writing shaders, doing math & physics, rendering, and much more!
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlucmF2ZmI2YzF3MXF5ZnpiemR5YnN1NnNhd2hhZGZqcHNhMnpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYcfd0CzzIVQJYk/giphy.gif" width="300" alt="Soccer GIF"/>
