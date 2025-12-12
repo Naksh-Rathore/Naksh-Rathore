@@ -209,12 +209,6 @@ It challenges me to think *critically*, *strategically*, and *creatively*.
 
 ---
 
-### 📫 <strong>Contact Me</strong>
-
-- 📧 **Gmail**: <naksh.rathore786@gmail.com>  
-- 💬 **Discord**: <https://discord.com/channels/nakshr_98839>  
-- 🧑‍💻 **Stack Overflow**: <https://stackoverflow.com/users/30107029/naksh-rathore>  
-
 🧠 *Always learning* | 💻 *Always building* | 🔐 *Always coding securely*
 
 > *"Train hard, code harder."* — **Naksh Rathore**
