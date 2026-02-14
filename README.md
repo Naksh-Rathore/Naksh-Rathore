@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <strong>Naksh Rathore</strong> 👋</h1>
+<h1 align="center">Hi there, I'm <strong>Naksh Rathore</strong></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand GIF"/>
