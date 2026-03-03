@@ -86,4 +86,8 @@ It challenges me to think *critically*, *strategically*, and *creatively*.
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRjZzJoMXk2YXZlemN3c3BpNjlqNmZpcjN6czVzMzQ2a284dDY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" width="300" alt="Gaming GIF"/>
 </p>
 
+## GitHub Snake
+
+![Github Snake](https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg)
+
 ---
