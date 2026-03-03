@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <strong>Naksh Rathore</strong></h1>
+<h1 align="center">Hi there, I'm <strong>Naksh R.!</strong></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand GIF"/>
@@ -8,9 +8,7 @@
 
 ### 🧑‍💻 <strong>About Me</strong>
 
-I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **graphics programming**, and **embedded systems**. I enjoy exploring how hardware and software interact—whether I'm writing C for microcontrollers or building Python tools to automate and extend system behavior.
-
-Outside of tech, I enjoy playing **soccer** and exploring new **games** in my free time. I believe in *continuous learning* and *pushing limits*, both on the field and at the keyboard.
+I'm a *curious and motivated student* passionate about **technology**, **programming**, **scripting**, **graphics programming**, and **embedded systems**. I enjoy exploring how hardware and software interact at a low, deep level — whether I'm writing C for microcontrollers or programming GPUs to render complex and optimized scenes.
 
 ---
 
@@ -64,30 +62,5 @@ My main tools are often OpenGL and Vulkan, used when writing shaders, doing math
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlucmF2ZmI2YzF3MXF5ZnpiemR5YnN1NnNhd2hhZGZqcHNhMnpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYcfd0CzzIVQJYk/giphy.gif" width="300" alt="Soccer GIF"/>
 </p>
 
----
-
-### ⚽ <strong>Soccer</strong>
-
-I bring the same **discipline**, **strategy**, and **teamwork** from the pitch to my projects.  
-I love *creative play* and adapting quickly—on the field and in code.
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUwa2w1ZmJ0cXBteHV5ZXhwbzJ4c3VkYmZtNmdyYnU0OXYwcHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKAQ4kWov6tdC/giphy.gif" width="300" alt="Soccer GIF"/>
-</p>
-
----
-
-### 🎮 <strong>Gaming</strong>
-
-Gaming keeps me sharp and inspires me to build *better*, *more interactive systems*.  
-It challenges me to think *critically*, *strategically*, and *creatively*.
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRjZzJoMXk2YXZlemN3c3BpNjlqNmZpcjN6czVzMzQ2a284dDY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" width="300" alt="Gaming GIF"/>
-</p>
-
-## GitHub Snake
-
-![Github Snake](https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg)
 
 ---
